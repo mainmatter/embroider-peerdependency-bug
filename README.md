@@ -1,0 +1,1 @@
+# embroider-peerdependency-bug
